@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.72426347"
-     inkscape:cx="76.629573"
-     inkscape:cy="569.54412"
+     inkscape:zoom="1.0242632"
+     inkscape:cx="685.85886"
+     inkscape:cy="368.55761"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -3335,65 +3335,764 @@
            y="75.313484"
            id="tspan12" /></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="8.6030083"
-       y="8.5362091"
-       id="text11-0-6-0"
-       inkscape:label="注意書き"><tspan
-         sodipodi:role="line"
-         style="font-size:2.82222px;stroke-width:0.264583px"
-         x="8.6030083"
-         y="8.5362091"
-         id="tspan12-17-7-1">灰色は、空白（穴）になっている箇所です。</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:2.82222px;stroke-width:0.264583px"
-         x="8.6030083"
-         y="12.063984"
-         id="tspan65">主にメス側の形状を描いています。</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:2.84996"
-       id="rect23-0-7"
-       width="6"
-       height="1"
-       x="222.11142"
-       y="122.87328"
-       ry="0.34531736" />
-    <rect
-       style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
-       id="rect45"
-       width="6.5756459"
-       height="4.703413"
-       x="221.88394"
-       y="105.72504"
-       ry="0.064578943" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
-       id="rect45-0"
-       width="6.5756459"
-       height="4.703413"
-       x="221.93619"
-       y="113.5497"
-       ry="0.064578943" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="219.11261"
-       y="102.04965"
-       id="text11-0-6"
-       inkscape:label="ラベル"><tspan
-         sodipodi:role="line"
-         style="font-size:2.82222px;stroke-width:0.264583px"
-         x="219.11261"
-         y="102.04965"
-         id="tspan12-17-7">◆IEEE1394</tspan></text>
     <g
-       id="g92"
-       transform="translate(-2.9225092,-86.944649)">
+       id="g104"
+       inkscape:label="RCA"
+       transform="translate(-0.36531365,-6.3929889)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="107.39059"
+         y="92.242134"
+         id="text11-0-6-2"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="107.39059"
+           y="92.242134"
+           id="tspan12-17-7-3">◆RCA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="116.07638"
+         y="106.64517"
+         id="text11-0-6-2-9"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="116.07638"
+           y="106.64517"
+           id="tspan12-17-7-3-5">RCA</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="116.07638"
+           y="110.17295"
+           id="tspan105">・コンポジット端子（黄）</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="116.07638"
+           y="113.70072"
+           id="tspan107">※赤・白は、音声</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="116.07638"
+           y="117.2285"
+           id="tspan106">・ピン端子</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="116.07638"
+           y="120.75627"
+           id="tspan104" /></text>
+      <g
+         id="g101"
+         transform="translate(-18.448339,-4.2817024)"
+         inkscape:label="RCA_R">
+        <circle
+           style="fill:#bc1617;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-4"
+           cx="136.7325"
+           cy="103.4641"
+           r="3.9000006" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58"
+           cx="136.7325"
+           cy="103.4641"
+           r="1.7" />
+      </g>
+      <g
+         id="g101-9"
+         transform="translate(21.478887,-4.2172565)"
+         inkscape:label="RCA_G">
+        <circle
+           style="fill:#19b321;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-4-8"
+           cx="136.7325"
+           cy="103.4641"
+           r="3.9000006" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-7"
+           cx="136.7325"
+           cy="103.4641"
+           r="1.7" />
+      </g>
+      <g
+         id="g101-9-6"
+         transform="translate(34.210479,-4.2172565)"
+         inkscape:label="RCA_B">
+        <circle
+           style="fill:#3216de;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-4-8-1"
+           cx="136.7325"
+           cy="103.4641"
+           r="3.9000006" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-7-8"
+           cx="136.7325"
+           cy="103.4641"
+           r="1.7" />
+      </g>
+      <g
+         id="g101-9-2"
+         transform="translate(46.942072,-4.2172565)"
+         inkscape:label="RCA_R">
+        <circle
+           style="fill:#bc1617;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-4-8-6"
+           cx="136.7325"
+           cy="103.4641"
+           r="3.9000006" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-7-2"
+           cx="136.7325"
+           cy="103.4641"
+           r="1.7" />
+      </g>
+      <g
+         id="g102"
+         transform="translate(-18.671576,-4.3206276)"
+         inkscape:label="RCA_W">
+        <circle
+           style="fill:#d4d5d4;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-4-3"
+           cx="148.54936"
+           cy="103.50303"
+           r="3.9000006" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-8"
+           cx="148.54936"
+           cy="103.50303"
+           r="1.7" />
+      </g>
+      <g
+         id="g103"
+         transform="translate(-18.448339,-4.0184502)"
+         inkscape:label="RCA_Y">
+        <circle
+           style="fill:#f2d51b;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-4-3-6"
+           cx="159.91975"
+           cy="103.20085"
+           r="3.9000006" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path58-8-7"
+           cx="159.91975"
+           cy="103.20085"
+           r="1.7" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="154.67334"
+         y="107.05508"
+         id="text11-0-6-2-9-6"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="154.67334"
+           y="107.05508"
+           id="tspan12-17-7-3-5-2">緑・青・赤の組み合わせの場合</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="154.67334"
+           y="110.58286"
+           id="tspan106-1">・コンポーネント映像端子</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="154.67334"
+           y="114.11063"
+           id="tspan104-5" /></text>
+    </g>
+    <g
+       id="g110"
+       inkscape:label="D端子">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="104.84012"
+         y="121.46722"
+         id="text11-0-6-5"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="104.84012"
+           y="121.46722"
+           id="tspan12-17-7-88">◆D端子</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="115.12189"
+         y="135.81647"
+         id="text11-0-6-5-2"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="115.12189"
+           y="135.81647"
+           id="tspan12-17-7-88-1">日本独自規格</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="115.12189"
+           y="139.34424"
+           id="tspan109">データシートが見つからなかったので、</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="115.12189"
+           y="142.87202"
+           id="tspan110">寸法は目分量</tspan></text>
+      <g
+         id="g109"
+         transform="translate(-19.178967,-1.095941)">
+        <path
+           id="rect92-1"
+           style="fill:#222120;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:2.84996"
+           d="M 136.82388,126.62275 H 148.727 c 0.44233,0 0.8459,0.35865 0.79844,0.79844 l -0.52917,4.90312 c -0.0475,0.43979 -0.35611,0.79844 -0.79844,0.79844 h -10.84478 c -0.44234,0 -0.75098,-0.35865 -0.79844,-0.79844 l -0.52917,-4.90312 c -0.0475,-0.43979 0.3561,-0.79844 0.79844,-0.79844 z"
+           sodipodi:nodetypes="sssssssss" />
+        <rect
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="rect92-6"
+           width="11.301313"
+           height="2.7768941"
+           x="137.12479"
+           y="128.4843"
+           ry="0.092804022" />
+        <g
+           id="g108"
+           transform="matrix(1,0,0,0.44264459,0.09811875,72.913311)"
+           style="stroke-width:1.50304">
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-5"
+             width="0.86896431"
+             height="1.1295744"
+             x="140.71756"
+             y="130.70427"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44"
+             width="0.86896431"
+             height="1.1295744"
+             x="137.66699"
+             y="130.70427"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-2"
+             width="0.86896431"
+             height="1.1295744"
+             x="139.19228"
+             y="130.70427"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-22"
+             width="0.86896431"
+             height="1.1295744"
+             x="142.24283"
+             y="130.70427"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-0"
+             width="0.86896431"
+             height="1.1295744"
+             x="143.76811"
+             y="130.70427"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-6"
+             width="0.86896431"
+             height="1.1295744"
+             x="145.2934"
+             y="130.70427"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-08"
+             width="0.86896431"
+             height="1.1295744"
+             x="146.81868"
+             y="130.70427"
+             ry="0.015509317" />
+        </g>
+        <g
+           id="g107"
+           transform="matrix(1,0,0,0.44264459,0.01708696,71.750982)"
+           style="stroke-width:1.50305">
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-5-7"
+             width="0.86896431"
+             height="1.1295744"
+             x="140.7986"
+             y="128.09744"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-9"
+             width="0.86896431"
+             height="1.1295744"
+             x="137.74802"
+             y="128.09744"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-2-9"
+             width="0.86896431"
+             height="1.1295744"
+             x="139.27332"
+             y="128.09744"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-22-5"
+             width="0.86896431"
+             height="1.1295744"
+             x="142.32387"
+             y="128.09744"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-0-8"
+             width="0.86896431"
+             height="1.1295744"
+             x="143.84915"
+             y="128.09744"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-6-2"
+             width="0.86896431"
+             height="1.1295744"
+             x="145.37444"
+             y="128.09744"
+             ry="0.015509317" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.751523;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-44-08-5"
+             width="0.86896431"
+             height="1.1295744"
+             x="146.89972"
+             y="128.09744"
+             ry="0.015509317" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g112"
+       inkscape:label="BNC"
+       transform="translate(0,1.033263)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.45734"
+         y="153.7466"
+         id="text11-0-6-58"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="106.45734"
+           y="153.7466"
+           id="tspan12-17-7-7">◆BNC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="110.54743"
+         y="170.7323"
+         id="text11-0-6-58-8"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="110.54743"
+           y="170.7323"
+           id="tspan111">ディスプレイから同軸が５本位出てるやつ</tspan></text>
+      <g
+         id="g111"
+         transform="translate(-25.831576,3.228947)"
+         inkscape:label="BNC">
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path110"
+           cx="156.36472"
+           cy="157.6563"
+           r="5.2500005" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path110-6"
+           cx="156.36472"
+           cy="157.6563"
+           r="1.2500005" />
+        <circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path110-6-8"
+           cx="156.36472"
+           cy="157.6563"
+           r="0.5" />
+      </g>
+    </g>
+    <g
+       id="g100"
+       inkscape:label="HDMI">
+      <g
+         id="g99"
+         transform="translate(14.080436,-43.192231)"
+         inkscape:label="HDMI TypeD">
+        <path
+           id="rect92-42"
+           style="fill:#6f6f6f;stroke:#000000;stroke-width:0.499996;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:2.84996"
+           d="m 145.81206,105.03703 h 5.27969 c 0.0333,0 0.0602,0.0268 0.0602,0.0602 v 1.19503 l -0.72016,0.54486 h -3.95977 l -0.72006,-0.54486 v -1.19503 c 0,-0.0333 0.0268,-0.0602 0.0601,-0.0602 z"
+           sodipodi:nodetypes="sssccccss" />
+        <path
+           id="rect23-0-7-9"
+           style="stroke-width:0.499999;stroke-linecap:square;stroke-dashoffset:2.84996"
+           d="m 146.45293,105.56264 h 3.99805 v 0.24976 l -0.24988,0.24975 h -3.49829 l -0.24988,-0.24975 z"
+           sodipodi:nodetypes="ccccccc" />
+        <g
+           id="g97">
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97"
+             width="0.21462028"
+             height="0.18288718"
+             x="146.78186"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-0"
+             width="0.21462028"
+             height="0.18288718"
+             x="147.12915"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-5"
+             width="0.21462028"
+             height="0.18288718"
+             x="147.47644"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-8"
+             width="0.21462028"
+             height="0.18288718"
+             x="147.82372"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-6"
+             width="0.21462028"
+             height="0.18288718"
+             x="148.17101"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-4"
+             width="0.21462028"
+             height="0.18288718"
+             x="148.5183"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-47"
+             width="0.21462028"
+             height="0.18288718"
+             x="148.86559"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-68"
+             width="0.21462028"
+             height="0.18288718"
+             x="149.21286"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-44"
+             width="0.21462028"
+             height="0.18288718"
+             x="149.56015"
+             y="105.52443"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-3"
+             width="0.21462028"
+             height="0.18288718"
+             x="149.90744"
+             y="105.52443"
+             ry="0.0025110831" />
+        </g>
+        <g
+           id="g98"
+           transform="translate(-2.0092251,-3.1051661)">
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-55"
+             width="0.21462028"
+             height="0.18288718"
+             x="148.96042"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-0-9"
+             width="0.21462028"
+             height="0.18288718"
+             x="149.30771"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-5-1"
+             width="0.21462028"
+             height="0.18288718"
+             x="149.655"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-8-9"
+             width="0.21462028"
+             height="0.18288718"
+             x="150.00227"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-6-7"
+             width="0.21462028"
+             height="0.18288718"
+             x="150.34956"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-4-7"
+             width="0.21462028"
+             height="0.18288718"
+             x="150.69685"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-47-0"
+             width="0.21462028"
+             height="0.18288718"
+             x="151.04414"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-68-2"
+             width="0.21462028"
+             height="0.18288718"
+             x="151.39142"
+             y="109.00833"
+             ry="0.0025110831" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-97-44-0"
+             width="0.21462028"
+             height="0.18288718"
+             x="151.73871"
+             y="109.00833"
+             ry="0.0025110831" />
+        </g>
+      </g>
+      <g
+         id="g94"
+         inkscape:label="HDMI TypeC"
+         transform="translate(4.3935951,-27.49955)">
+        <path
+           id="rect92-4"
+           style="fill:#6f6f6f;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:2.84996"
+           d="m 131.99169,89.099388 h 10.51954 c 0.05,0 0.0902,0.04024 0.0902,0.09023 v 1.670744 l -1.40514,0.939019 h -7.88966 l -1.40514,-0.939019 v -1.670744 c 0,-0.04999 0.0402,-0.09023 0.0902,-0.09023 z"
+           sodipodi:nodetypes="sssccccss" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:2.84996"
+           id="rect23-0-7-7"
+           width="7.6790519"
+           height="0.68035054"
+           x="133.41194"
+           y="89.985413"
+           ry="0.23493686" />
+        <g
+           id="g93"
+           transform="matrix(1,0,0,0.58942152,0.43189466,35.542821)"
+           style="stroke-width:1.30253">
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36"
+             width="0.28540143"
+             height="0.3538973"
+             x="133.39276"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-7"
+             width="0.28540143"
+             height="0.3538973"
+             x="133.75766"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-3"
+             width="0.28540143"
+             height="0.3538973"
+             x="134.12256"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-8"
+             width="0.28540143"
+             height="0.3538973"
+             x="134.48746"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-73"
+             width="0.28540143"
+             height="0.3538973"
+             x="134.85236"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-0"
+             width="0.28540143"
+             height="0.3538973"
+             x="135.21727"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-78"
+             width="0.28540143"
+             height="0.3538973"
+             x="135.58217"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-89"
+             width="0.28540143"
+             height="0.3538973"
+             x="135.94707"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-5"
+             width="0.28540143"
+             height="0.3538973"
+             x="136.31197"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-1"
+             width="0.28540143"
+             height="0.3538973"
+             x="136.67686"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-81"
+             width="0.28540143"
+             height="0.3538973"
+             x="137.04176"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-9"
+             width="0.28540143"
+             height="0.3538973"
+             x="137.40666"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-6"
+             width="0.28540143"
+             height="0.3538973"
+             x="137.77156"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-4"
+             width="0.28540143"
+             height="0.3538973"
+             x="138.13646"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-83"
+             width="0.28540143"
+             height="0.3538973"
+             x="138.50137"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-17"
+             width="0.28540143"
+             height="0.3538973"
+             x="138.86627"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-66"
+             width="0.28540143"
+             height="0.3538973"
+             x="139.23117"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-97"
+             width="0.28540143"
+             height="0.3538973"
+             x="139.59607"
+             y="93.173752"
+             ry="0.0048590912" />
+          <rect
+             style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.651263;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+             id="rect45-36-2"
+             width="0.28540143"
+             height="0.3538973"
+             x="139.96097"
+             y="93.173752"
+             ry="0.0048590912" />
+        </g>
+      </g>
       <g
          id="g91"
-         inkscape:label="HDMI">
+         inkscape:label="HDMI TypeA"
+         transform="translate(-10.411439,-87.127307)">
         <path
            id="rect89-3"
            style="fill:#6f6f6f;stroke:#000000;stroke-width:0.500001;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:2.84996"
@@ -3576,25 +4275,126 @@
          x="108.8559"
          y="143.86949"
          id="text11-0-6-43"
-         inkscape:label="ラベル"><tspan
+         inkscape:label="ラベル"
+         transform="translate(-2.9225092,-86.94465)"><tspan
            sodipodi:role="line"
            style="font-size:2.82222px;stroke-width:0.264583px"
            x="108.8559"
            y="143.86949"
            id="tspan12-17-7-8">◆HDMI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="114.07451"
+         y="68.920761"
+         id="text11-0-6-43-3"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="114.07451"
+           y="68.920761"
+           id="tspan12-17-7-8-7">HDMI TypeA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="134.5282"
+         y="68.509735"
+         id="text11-0-6-43-3-0"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="134.5282"
+           y="68.509735"
+           id="tspan12-17-7-8-7-0">HDMI TypeC</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="134.5282"
+           y="72.037506"
+           id="tspan94">・mini HDMI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="155.14444"
+         y="68.272125"
+         id="text11-0-6-43-3-0-6"
+         inkscape:label="ラベル"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="155.14444"
+           y="68.272125"
+           id="tspan12-17-7-8-7-0-3">HDMI TypeD</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="155.14444"
+           y="71.799896"
+           id="tspan94-8">・micro HDMI</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.6030083"
+       y="8.5362091"
+       id="text11-0-6-0"
+       inkscape:label="注意書き"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583px"
+         x="8.6030083"
+         y="8.5362091"
+         id="tspan12-17-7-1">灰色は、空白（穴）になっている箇所です。</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583px"
+         x="8.6030083"
+         y="12.063984"
+         id="tspan65">主にメス側の形状を描いています。</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:2.84996"
+       id="rect23-0-7"
+       width="6"
+       height="1"
+       x="222.11142"
+       y="122.87328"
+       ry="0.34531736" />
+    <rect
+       style="fill:#e9910f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+       id="rect45"
+       width="6.5756459"
+       height="4.703413"
+       x="221.88394"
+       y="105.72504"
+       ry="0.064578943" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+       id="rect45-0"
+       width="6.5756459"
+       height="4.703413"
+       x="221.93619"
+       y="113.5497"
+       ry="0.064578943" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="219.11261"
+       y="102.04965"
+       id="text11-0-6"
+       inkscape:label="ラベル"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583px"
+         x="219.11261"
+         y="102.04965"
+         id="tspan12-17-7">◆IEEE1394</tspan></text>
     <circle
        style="fill:#000002;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
        id="path58-2-3-3"
        cx="237.26555"
        cy="131.86787"
        r="4.5" />
-    <ellipse
+    <rect
        style="fill:#6f6f6f;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
-       id="path58"
-       cx="225.83255"
-       cy="131.80562"
-       rx="3.9389999"
-       ry="4.0684729" />
+       id="rect92"
+       width="23.894207"
+       height="10.33263"
+       x="220.73082"
+       y="141.9445"
+       ry="0.3453173" />
   </g>
 </svg>
