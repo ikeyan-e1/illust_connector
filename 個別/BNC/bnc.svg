@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.999999mm"
+   height="11.000007mm"
+   viewBox="0 0 10.999999 11.000007"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><g
+     id="layer1"
+     transform="translate(-125.03314,-156.4185)"><g
+       id="g112"
+       transform="translate(0,1.033263)"><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.45734"
+         y="153.7466"
+         id="text11-0-6-58"><tspan
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="106.45734"
+           y="153.7466"
+           id="tspan12-17-7-7">◆BNC</tspan></text><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="110.54743"
+         y="170.7323"
+         id="text11-0-6-58-8"><tspan
+           style="font-size:2.82222px;stroke-width:0.264583px"
+           x="110.54743"
+           y="170.7323"
+           id="tspan111">ディスプレイから同軸が５本位出てるやつ</tspan></text><g
+         id="g111"
+         transform="translate(-25.831576,3.228947)"><circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path110"
+           cx="156.36472"
+           cy="157.6563"
+           r="5.2500005" /><circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path110-6"
+           cx="156.36472"
+           cy="157.6563"
+           r="1.2500005" /><circle
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.84996;stroke-opacity:1"
+           id="path110-6-8"
+           cx="156.36472"
+           cy="157.6563"
+           r="0.5" /></g></g></g></svg>
